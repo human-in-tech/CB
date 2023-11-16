@@ -1,0 +1,62 @@
+ * {
+    font-family: 'Courier New', Courier, monospace;
+ }    
+  
+body {
+    background-color:black;
+    background-image: url(https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L2Zyc2t5X3N0YXJzX25pZ2h0X3NwYWNlLWltYWdlLWt5YmNwMmJmLmpwZw.jpg);
+    
+}
+
+
+header {
+    color:red;
+    background-color: black;
+    font-size: 70px;
+    font-weight: 600;
+    text-align: center;
+    width: 100vw;
+    position:fixed;
+    top:0px;
+}
+
+.facts {
+     color:rgba(255, 255, 255, 0.729);
+     font-weight: 550;
+     font-size: 25px;
+     line-height: 20px;
+    }
+
+
+#mars{
+    width:1000px;
+    margin:0 auto;
+    border-radius:100px;
+    margin-bottom: 100px;
+    margin-top:100px;
+    display: block;
+
+}
+
+
+#animation {
+    margin-top: 15vh;
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+    #video {
+
+   margin-right: 5vw;
+
+}
+
+footer {
+    color: white;
+    text-decoration: none;
+}
+
+#f.link {
+    text-decoration: none;
+}
