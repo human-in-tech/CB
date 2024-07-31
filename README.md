@@ -1,0 +1,1 @@
+<h3> <b>NOTE: The website was an attempt at web development project, undertaken in an attempt to get selected in a tech society. It was merely to explore Web-Dev, and hence the project remains incomplete to this day.</h3></b>
